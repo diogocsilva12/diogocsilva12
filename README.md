@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://diogocsilva12portfolio.netlify.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/diogocsilva12/your-repo/main/preview-image.png" alt="Diogo's Portfolio Preview" width="600"/>
+    <img src="https://github.com/diogocsilva12/diogocsilva12/blob/f63ddbc38034c6e5a7ddf979cdce08c952581b51/Screenshot%202025-07-02%20at%2016.51.52.png" alt="Diogo's Portfolio Preview" width="600"/>
   </a>
 </p>- 📫 How to reach me **diogo.coelho.silva@gmail.com**
 
