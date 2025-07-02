@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diogocsilva12&label=Profile%20views&color=0e75b6&style=flat" alt="diogocsilva12" /> </p>
 
-- Check my personal portfolio: **https://diogocsilva12portfolio.netlify.app/**
+
+- Check my personal portfolio: [Personal Portfolio](https://diogocsilva12portfolio.netlify.app/)
 - 📫 How to reach me **diogo.coelho.silva@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
