@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diogo Silva</h1>
-<h3 align="center">A Computer Science degree student at University of Minho</h3>
+<h3 align="center">A MSc student in Advanced Computing at University of Minho</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diogocsilva12&label=Profile%20views&color=0e75b6&style=flat" alt="diogocsilva12" /> </p>
 
