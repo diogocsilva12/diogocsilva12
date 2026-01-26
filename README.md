@@ -86,34 +86,8 @@ Academic projects developed during my Bachelor's and Master's degrees, mainly fo
 ### 🔹 High-Performance Computing
 - **ZPIC Performance Analysis & Optimisation**  
   Roofline model, OpenMP/MPI hybrid parallelism, memory vs compute-bound analysis  
-  🔗 https://github.com/diogocsilva12/zpic-performance-analysis
+  🔗 link placeholder
 
-- **Deucalion Supercomputer Benchmarking**  
-  ARM A64FX vs AMD EPYC, scalability and energy efficiency  
-  🔗 https://github.com/diogocsilva12/deucalion-benchmarks
-
-### 🔹 Distributed & Concurrent Systems
-- **Client–Server Game (Java + Erlang)**  
-  Concurrent server, message passing, fault tolerance  
-  🔗 https://github.com/diogocsilva12/duelo-distributed-game
-
-- **Concurrency Models & Formal Verification**  
-  Hennessy–Milner logic, reactive systems  
-  🔗 https://github.com/diogocsilva12/concurrency-models
-
-### 🔹 Scientific Computing & Simulation
-- **CFD – Indoor Thermal Comfort**  
-  ANSYS Fluent, PMV/PPD indices, heat transfer modelling  
-  🔗 https://github.com/diogocsilva12/cfd-thermal-comfort
-
-- **Tsunami Simulation – 1755 Lisbon Earthquake**  
-  Wave equations, numerical solvers, scientific visualisation  
-  🔗 https://github.com/diogocsilva12/tsunami-simulation
-
-### 🔹 Programming Languages & Semantics
-- **Semantics of Programming Languages**  
-  Operational semantics, type systems, formal derivations  
-  🔗 https://github.com/diogocsilva12/semantics-programming-languages
 
 ---
 
