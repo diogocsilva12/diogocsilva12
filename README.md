@@ -53,97 +53,7 @@ My long-term interest is in the intersection between **HPC and Artificial Intell
 
 ---
 
-## 🧬 Core Technical Identity
 
-```text
-Diogo Silva
-├── High-Performance Computing
-│   ├── Parallel algorithms
-│   ├── CPU/GPU performance analysis
-│   ├── Memory hierarchy optimisation
-│   ├── NUMA-aware execution
-│   ├── Scientific simulation
-│   └── Benchmark-driven development
-│
-├── AI & Intelligent Systems
-│   ├── Machine learning workflows
-│   ├── Deep learning frameworks
-│   ├── AI model benchmarking
-│   ├── Vector databases
-│   ├── Embedding-based retrieval
-│   └── AI + HPC acceleration
-│
-├── Parallel Programming
-│   ├── OpenMP
-│   ├── MPI
-│   ├── CUDA
-│   └── Hybrid CPU/GPU execution
-│
-├── Systems Thinking
-│   ├── Runtime behaviour
-│   ├── Cache effects
-│   ├── Data locality
-│   ├── Scalability limits
-│   └── Hardware/software co-design
-│
-└── Scientific Computing
-    ├── Numerical methods
-    ├── Matrix computations
-    ├── Simulation kernels
-    └── Performance modelling
-```
-
----
-
-## ⚡ HPC Mindset
-
-I approach computing problems from a performance-first perspective:
-
-```text
-Problem
-  ↓
-Algorithmic structure
-  ↓
-Memory access pattern
-  ↓
-Parallel decomposition
-  ↓
-Hardware mapping
-  ↓
-Profiling and measurement
-  ↓
-Optimisation
-  ↓
-Scalability analysis
-```
-
-For me, performance is not only about writing faster code. It is about understanding the full execution stack:
-
-```text
-Algorithm × Data Layout × Memory Hierarchy × Parallel Runtime × Hardware Architecture
-```
-
----
-
-## 🤖 Interest in Artificial Intelligence
-
-I am particularly interested in **AI from a systems and infrastructure perspective**.
-
-Rather than treating AI only as a black-box modelling task, I am interested in how intelligent systems are built, accelerated and evaluated in practice:
-
-- AI model benchmarking;
-- deep learning performance;
-- GPU-accelerated AI workloads;
-- vector databases and semantic search;
-- embedding pipelines;
-- AI for scientific computing;
-- AI-assisted performance analysis;
-- efficient deployment of intelligent applications;
-- the convergence of **HPC, AI and data-intensive computing**.
-
-I see AI and HPC as increasingly connected fields: modern AI requires massive computation, efficient memory movement, scalable infrastructure and careful benchmarking.
-
----
 
 ## 🌐 Portfolio
 
@@ -240,8 +150,6 @@ Academic projects developed during my Bachelor's and Master's degrees, mainly fo
 |---|---|---|---|
 | [Matrix Multiply Optimized](https://github.com/diogocsilva12/matrix-multiply-optimized) | Performance-oriented matrix multiplication implementation, focused on optimisation, computational efficiency and hardware-aware execution. | C, HPC, Optimisation, Performance Analysis | **18.3/20** |
 | [ZPIC CUDA + MPI](https://github.com/diogocsilva12/zpic_cudaMPI) | Parallelisation and optimisation of ZPIC using CUDA and MPI, exploring distributed and GPU-accelerated execution. | CUDA, MPI, HPC, Parallel Computing | **18/20** |
-| [ZPIC Parallel WA1](https://github.com/diogocsilva12/ZPIC-ParallelWA1) | Performance analysis and parallelisation work on ZPIC, with emphasis on scalability and parallel execution behaviour. | C, OpenMP/MPI, HPC | — |
-
 ### 🔹 AI, Data & Vector Databases
 
 | Project | Description | Technologies | Grade |
@@ -277,7 +185,7 @@ I am currently exploring:
 - efficient data pipelines for intelligent systems;
 - the role of HPC infrastructure in modern AI workloads.
 
----
+--- 
 
 
 ## 📊 GitHub Analytics
