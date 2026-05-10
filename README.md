@@ -65,7 +65,7 @@ My long-term interest is in the intersection between **HPC and Artificial Intell
 
 <p align="center">
   <a href="https://diogocsilva12portfolio.netlify.app" target="_blank">
-    <img src="https://github.com/diogocsilva12/diogocsilva12/blob/f63ddbc38034c6e5a7ddf979cdce08c952581b51/Screenshot%202025-07-02%20at%2016.51.52.png" width="700"/>
+    <img src="[Screenshot_20260510_205354.png](https://github.com/diogocsilva12/diogocsilva12/blob/1618f14ed3392097a0ae43c099809ebb6630c82f/Screenshot_20260510_205354.png)" width="700"/>
   </a>
 </p>
 
