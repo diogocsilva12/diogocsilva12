@@ -1,5 +1,31 @@
-<h1 align="center">Hi 👋, I'm Diogo Silva</h1>
-<h3 align="center">MSc Student in Advanced Computing · University of Minho</h3>
+<h1 align="center">Hi, I'm Diogo Silva 👋</h1>
+
+<h3 align="center">
+  MSc Student in Advanced Computing · University of Minho
+</h3>
+
+<p align="center">
+  <strong>High-Performance Computing · AI Systems · Parallel Programming · GPU Computing · Scientific Computing</strong>
+</p>
+
+<p align="center">
+  <em>Exploring how software, hardware and intelligent systems can be pushed closer to their performance limits.</em>
+</p>
+
+<p align="center">
+  <a href="mailto:diogo.coelho.silva@gmail.com">
+    <img src="https://img.shields.io/badge/Email-diogo.coelho.silva%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/diogocsilva12">
+    <img src="https://img.shields.io/badge/LinkedIn-diogocsilva12-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/diogocsilva12">
+    <img src="https://img.shields.io/badge/Instagram-diogocsilva12-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://diogocsilva12portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=diogocsilva12">
@@ -9,33 +35,127 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 Master's Degree student in **Advanced Computing**
-- 💻 Strong focus on **High-Performance Computing, Parallel Programming and Scientific Computing**
-- 🔬 Interested in **performance optimisation, distributed systems and numerical simulation**
-- 🌍 Based in **Portugal**
+## 🚀 About Me
 
-🔗 **Personal portfolio:**  
-👉 https://diogocsilva12portfolio.netlify.app
+I am an MSc student in **Advanced Computing** at the **University of Minho**, focused on the design, implementation and optimisation of computational systems that run close to the hardware.
 
-<p align="center">
-  <a href="https://diogocsilva12portfolio.netlify.app" target="_blank">
-    <img src="https://github.com/diogocsilva12/diogocsilva12/blob/f63ddbc38034c6e5a7ddf979cdce08c952581b51/Screenshot%202025-07-02%20at%2016.51.52.png" width="600"/>
-  </a>
-</p>
+My main interests are centred around **High-Performance Computing**, **AI systems**, **parallel programming**, **GPU acceleration**, **scientific computing** and **performance engineering**.
+
+I enjoy understanding not only whether a system works, but also:
+
+- why it performs the way it does;
+- how memory, parallelism and architecture affect execution;
+- where bottlenecks emerge;
+- how algorithms can be redesigned for modern hardware;
+- how AI workloads can be accelerated, benchmarked and deployed efficiently.
+
+My long-term interest is in the intersection between **HPC and Artificial Intelligence**, especially in systems where large-scale computation, data movement and hardware-aware optimisation are critical.
 
 ---
 
-## 🤝 Connect with Me
-<p align="left">
-  <a href="mailto:diogo.coelho.silva@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="30"/>
+## 🧬 Core Technical Identity
+
+```text
+Diogo Silva
+├── High-Performance Computing
+│   ├── Parallel algorithms
+│   ├── CPU/GPU performance analysis
+│   ├── Memory hierarchy optimisation
+│   ├── NUMA-aware execution
+│   ├── Scientific simulation
+│   └── Benchmark-driven development
+│
+├── AI & Intelligent Systems
+│   ├── Machine learning workflows
+│   ├── Deep learning frameworks
+│   ├── AI model benchmarking
+│   ├── Vector databases
+│   ├── Embedding-based retrieval
+│   └── AI + HPC acceleration
+│
+├── Parallel Programming
+│   ├── OpenMP
+│   ├── MPI
+│   ├── CUDA
+│   └── Hybrid CPU/GPU execution
+│
+├── Systems Thinking
+│   ├── Runtime behaviour
+│   ├── Cache effects
+│   ├── Data locality
+│   ├── Scalability limits
+│   └── Hardware/software co-design
+│
+└── Scientific Computing
+    ├── Numerical methods
+    ├── Matrix computations
+    ├── Simulation kernels
+    └── Performance modelling
+```
+
+---
+
+## ⚡ HPC Mindset
+
+I approach computing problems from a performance-first perspective:
+
+```text
+Problem
+  ↓
+Algorithmic structure
+  ↓
+Memory access pattern
+  ↓
+Parallel decomposition
+  ↓
+Hardware mapping
+  ↓
+Profiling and measurement
+  ↓
+Optimisation
+  ↓
+Scalability analysis
+```
+
+For me, performance is not only about writing faster code. It is about understanding the full execution stack:
+
+```text
+Algorithm × Data Layout × Memory Hierarchy × Parallel Runtime × Hardware Architecture
+```
+
+---
+
+## 🤖 Interest in Artificial Intelligence
+
+I am particularly interested in **AI from a systems and infrastructure perspective**.
+
+Rather than treating AI only as a black-box modelling task, I am interested in how intelligent systems are built, accelerated and evaluated in practice:
+
+- AI model benchmarking;
+- deep learning performance;
+- GPU-accelerated AI workloads;
+- vector databases and semantic search;
+- embedding pipelines;
+- AI for scientific computing;
+- AI-assisted performance analysis;
+- efficient deployment of intelligent applications;
+- the convergence of **HPC, AI and data-intensive computing**.
+
+I see AI and HPC as increasingly connected fields: modern AI requires massive computation, efficient memory movement, scalable infrastructure and careful benchmarking.
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://diogocsilva12portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
   </a>
-  <a href="https://linkedin.com/in/diogocsilva12">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-  </a>
-  <a href="https://instagram.com/diogocsilva12">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
+</p>
+
+<p align="center">
+  <a href="https://diogocsilva12portfolio.netlify.app" target="_blank">
+    <img src="https://github.com/diogocsilva12/diogocsilva12/blob/f63ddbc38034c6e5a7ddf979cdce08c952581b51/Screenshot%202025-07-02%20at%2016.51.52.png" width="700"/>
   </a>
 </p>
 
@@ -44,63 +164,162 @@
 ## 💻 Tech Stack
 
 ### 🧠 Programming Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### ⚡ Parallel & High-Performance Computing
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![OpenMP](https://img.shields.io/badge/OpenMP-009FDA?style=for-the-badge)
-![MPI](https://img.shields.io/badge/MPI-00427E?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</p>
+
+### ⚙️ High-Performance & Parallel Computing
+
+<p>
+  <img src="https://img.shields.io/badge/HPC-111111?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parallel%20Programming-00427E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenMP-009FDA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MPI-00427E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Performance%20Engineering-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GPU%20Computing-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scientific%20Computing-0A66C2?style=for-the-badge" />
+</p>
+
+### 🤖 Artificial Intelligence & Data Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-111111?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Systems-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20Databases-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge" />
+</p>
 
 ### 📊 Scientific & Data Tools
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 🧩 Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+### 🧩 Machine Learning Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
 
 ### 🛠️ Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=black" />
+  <img src="https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge" />
+</p>
 
 ---
 
-## 🎓 University Projects
+## 🎓 Selected University Projects
 
-Academic projects developed during my Bachelor's and Master's degrees, mainly focused on **HPC, Distributed Systems and Scientific Computing**.
+Academic projects developed during my Bachelor's and Master's degrees, mainly focused on **HPC, AI systems, distributed computing, scientific computing, databases and graphics**.
 
-### 🔹 High-Performance Computing
-- **ZPIC Performance Analysis & Optimisation**  
-  Roofline model, OpenMP/MPI hybrid parallelism, memory vs compute-bound analysis  
-  🔗 link placeholder
+### 🔹 High-Performance Computing & Parallel Programming
 
+| Project | Description | Technologies | Grade |
+|---|---|---|---|
+| [Matrix Multiply Optimized](https://github.com/diogocsilva12/matrix-multiply-optimized) | Performance-oriented matrix multiplication implementation, focused on optimisation, computational efficiency and hardware-aware execution. | C, HPC, Optimisation, Performance Analysis | **18.3/20** |
+| [ZPIC CUDA + MPI](https://github.com/diogocsilva12/zpic_cudaMPI) | Parallelisation and optimisation of ZPIC using CUDA and MPI, exploring distributed and GPU-accelerated execution. | CUDA, MPI, HPC, Parallel Computing | **18/20** |
+| [ZPIC Parallel WA1](https://github.com/diogocsilva12/ZPIC-ParallelWA1) | Performance analysis and parallelisation work on ZPIC, with emphasis on scalability and parallel execution behaviour. | C, OpenMP/MPI, HPC | — |
+
+### 🔹 AI, Data & Vector Databases
+
+| Project | Description | Technologies | Grade |
+|---|---|---|---|
+| [Models Benchmark for Audio Storage in Vectorial Databases - Milvus](https://github.com/diogocsilva12/Models-Benchmark-for-Audio-Storage-in-Vectorial-Databases-Milvus) | Benchmarking AI models for audio representation and storage in vector databases, with focus on embeddings, similarity search and model evaluation. | Python, Milvus, AI, Machine Learning, Vector Databases | **17/20** |
+
+### 🔹 Computer Graphics & Databases
+
+| Project | Description | Technologies | Grade |
+|---|---|---|---|
+| [CG Project](https://github.com/diogocsilva12/CG-Project) | Computer graphics project involving rendering, scene construction and interactive visual components. | C/C++, OpenGL, Computer Graphics | **18/20** |
+| [Projeto BD](https://github.com/diogocsilva12/ProjetoBD) | Database systems project covering data modelling, querying and application-level database logic. | SQL, Databases, Data Modelling | **17/20** |
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=diogocsilva12&theme=radical&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=diogocsilva12&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diogocsilva12&theme=radical&layout=compact)
+## 🔬 Current Areas of Exploration
+
+```text
+HPC + AI + Systems
+```
+
+I am currently exploring:
+
+- hardware-aware optimisation for modern CPU and GPU architectures;
+- CUDA programming and GPU acceleration;
+- parallel algorithms and scalability analysis;
+- NUMA effects and memory hierarchy behaviour;
+- scientific simulation and numerical kernels;
+- distributed computing and runtime performance;
+- AI model benchmarking;
+- vector databases and semantic search;
+- AI-assisted performance analysis;
+- efficient data pipelines for intelligent systems;
+- the role of HPC infrastructure in modern AI workloads.
+
+---
+
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diogocsilva12&theme=radical&hide_border=false&show_icons=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocsilva12&theme=radical&layout=compact&hide_border=false" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=diogocsilva12&theme=radical&hide_border=false" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=diogocsilva12&theme=radical&no-frame=false&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=diogocsilva12&theme=radical&no-frame=false&margin-w=4" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=diogocsilva12&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:diogo.coelho.silva@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/diogocsilva12">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/diogocsilva12">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://diogocsilva12portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Building faster and smarter systems by understanding the machine beneath the software.</em>
+</p>
