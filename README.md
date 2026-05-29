@@ -150,6 +150,7 @@ Academic projects developed during my Bachelor's and Master's degrees, mainly fo
 |---|---|---|---|
 | [Matrix Multiply Optimized](https://github.com/diogocsilva12/matrix-multiply-optimized) | Performance-oriented matrix multiplication implementation, focused on optimisation, computational efficiency and hardware-aware execution. | C, HPC, Optimisation, Performance Analysis | **18.3/20** |
 | [ZPIC CUDA + MPI](https://github.com/diogocsilva12/zpic_cudaMPI) | Parallelisation and optimisation of ZPIC using CUDA and MPI, exploring distributed and GPU-accelerated execution. | CUDA, MPI, HPC, Parallel Computing | **18/20** |
+| [LLM Inference on CPU](https://github.com/diogocsilva12/LLM-Inference-CPU) | Study on LLM Inference on CPU's and LLM engines optimization, like TurboQuant in llama.cpp| Python, C++, Bash, LLM Inference | **20/20** | 
 ### 🔹 AI, Data & Vector Databases
 
 | Project | Description | Technologies | Grade |
